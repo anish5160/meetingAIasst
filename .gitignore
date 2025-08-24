@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+*.env
+__pycache__/
+*.pyc
+*.mp3
+*.npy
+*.pkl
+
